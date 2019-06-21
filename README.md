@@ -13,6 +13,7 @@
 - (en/Python) [Delta Inside Valle-Inclán: Stylometric Classification of Periods and Groups of His Novels](https://github.com/morethanbooks/publications/blob/master/Delta_Valle/analyze-deltamatrix.ipynb): uses machine learning and stylometry to analyze the periodization and groups of novels from the Spanish novelist Valle-Inclán. By José Calvo.
 - (en/Python) [CORDE](https://github.com/cligs/projects2019/blob/master/DHd_CORDE_genre/20180906%20500%20years%20CORDE.ipynb): analyzes the genres of the diachronic Spanish diachronic corpus, by José Calvo.
 - (en/Python) ["Late Style" PCA](https://github.com/JonathanReeve/late-style-PCA): code and prose related to a computational literary analysis which attempt to test literary critical claims of authorial periodicity known as "late style," and popularized most recently by Edward Said's book On Late Style. By Jonathan Reeve.
+- (en/Python) [Linguistic Fingerprints on Translation’s Lens: Jupyter notebook for April 15, 2019 presentation](https://github.com/quinnanya/litlab_translations/blob/master/litlab_translations_2019-04-15_jupyter_notebook.ipynb): workflow and analysis for a presentation, by Quinn Dombrowski, Yulia Ilchuk, Antonio Lenzo, J.D. Porter.
 - (en/Python) [Phraseorom](https://github.com/cligs/projects2019/blob/master/Phraseorom/Phraseorom-jct.ipynb): evaluates whether different formalizations of the concept of the "lexical unit" get better results when evaluating literary genres in Spanish, by José Calvo.
 
 ## Learning Python
@@ -47,6 +48,8 @@
 ## Data cleaning
 - (en/Python) [EEBO-TCP full-text document cleaning](https://github.com/ostwaldj/eebo_tcp_clean_text): code to make EEBO-TCP texts more easily analyzed in Natural Language Processing (NLP), though most of the edits can be used on any text file. By Jamel Ostwald.
 - (en/Python) [Data manipulation workshop](https://github.com/sul-cidr/python_workshops/blob/master/data_manipulation.ipynb): covers how to load in data into a Pandas DataFrame, perform basic cleaning and analysis, and visualize relevant aspects of a dataset, using a dataset of tweets. By Scott Bailey, Javier de la Rosa, Ashley Jester. ([filled-in version](https://github.com/sul-cidr/python_workshops/blob/master/data_manipulation_filled.ipynb))
+- (en/Python) [Japanese text segmentation](https://github.com/quinnanya/japanese-segmenter): uses the RakutenMA Python module to segment Japanese text, by Quinn Dombrowski.
+- (en/Python) [Unicode to ASCII](https://github.com/quinnanya/unicode2ascii): notebook for converting Unicode text to ASCII, by Quinn Dombrowski.
 
 ## Mapping
 - (en/Python) [Mapping Geographic Subjects using the HathiTrust Extracted Features Dataset](https://github.com/diyclassics/mapping-experiments/blob/master/book-map-ner-htef.ipynb): Retrieves a book-level dataset from the HathiTrust Extracted Features Dataset, "recreate" the book's text using token-frequency data (i.e. tokenPosCount), runs the text through a named entity recognition tagger (Stanford NER Tagger), separate out 'location' NER data, queries the Geonames API for geographic coordinates for all locations, and maps the coordinates using Folium. By Patrick Burns.
