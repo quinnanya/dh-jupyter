@@ -10,6 +10,7 @@
 
 ## Research & projects
 - (es/R) [Autoría y estilo: Análisis estilométrico mediante clasificación de la Conquista de Jerusalén](https://github.com/morethanbooks/publications/blob/master/Cervantes_Conquista/analisis/programacion.ipynb): Código de análisis del artículo realizado por Juan Cerezo Soler y José Calvo Tello.
+- (en/Python) [Bughunt](https://github.com/mchesterkadwell/bughunt-analysis): text mining of English children's literature 1789-1914 for the representation of insects and other creepy crawlies, by Mary Chester-Kadwell, [on Binder](https://mybinder.org/v2/gh/mchesterkadwell/bughunt-analysis/master)
 - (en/Python) [Delta Inside Valle-Inclán: Stylometric Classification of Periods and Groups of His Novels](https://github.com/morethanbooks/publications/blob/master/Delta_Valle/analyze-deltamatrix.ipynb): uses machine learning and stylometry to analyze the periodization and groups of novels from the Spanish novelist Valle-Inclán. By José Calvo.
 - (en/Python) [CORDE](https://github.com/cligs/projects2019/blob/master/DHd_CORDE_genre/20180906%20500%20years%20CORDE.ipynb): analyzes the genres of the diachronic Spanish diachronic corpus, by José Calvo.
 - (en/Python) ["Late Style" PCA](https://github.com/JonathanReeve/late-style-PCA): code and prose related to a computational literary analysis which attempt to test literary critical claims of authorial periodicity known as "late style," and popularized most recently by Edward Said's book On Late Style. By Jonathan Reeve.
@@ -37,6 +38,7 @@
 ## Learning Python
 - (en/Python) [Intro to Python (Stanford CIDR)](https://github.com/sul-cidr/python_workshops/blob/master/intro_to_python.ipynb): covers basic syntax in Python for variables, functions, and control flow. By Scott Bailey, Javier de la Rosa, Ashley Jester. ([Filled-in version](https://github.com/sul-cidr/python_workshops/blob/master/intro_to_python_filled.ipynb))
 - (fr/Python) [Introduction à Python et au développement web avec Python pour les sciences humaines](https://github.com/PonteIneptique/cours-python), par Thibault Clérice, traduit du matériel de Matthew Munson. 
+- (en/Python) [Introduction to Text-Mining with Python](https://github.com/mchesterkadwell/intro-to-text-mining-with-python): notebooks from the Cambridge Digital Humanities 'Introduction to Text-Mining with Python' workshop series in the Cambridge Digital Humanities Learning programme 2019, by Mary Chester-Kadwell, [on Binder](https://mybinder.org/v2/gh/mchesterkadwell/intro-to-text-mining-with-python/master). 
 - (en/Python) [Python Programming for the Humanities](https://github.com/sonofmun/MM-Python-Course), by Matthew Munson; 4 chapters adapted from Folgert Karsdorp.
 - (en/Python) [Python Programming for the Humanities](https://github.com/fbkarsdorp/python-course), by Folgert Karsdorp; 10 chapters. 
 - (en/Python) [Introduction to Python](https://github.com/frederik-elwert/HNRWS2015-Intro-Python): created for the “Introduction to Python” session at the Historical Network Research workshop 2015. By Frederik Elwert.
