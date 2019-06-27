@@ -9,7 +9,7 @@
 **Fr**: Les cahiers Jupyter sont utiles pour organiser et documenter le code, et pour incorporer du code dans des arguments scientifiques et / ou du matériel pédagogique. La liste suivante de cahiers à des fins de sciences humaines numériques a été extraite de Twitter en juin 2019, mais les PR avec les ajouts suggérés sont les bienvenus! Si vous voulez des cahiers en français, cherchez sur cette page l'abréviation "fr".
 
 ## Research & projects
-- (es/R) [Autoría y estilo: Análisis estilométrico mediante clasificación de la Conquista de Jerusalén](https://github.com/morethanbooks/publications/blob/master/Cervantes_Conquista/analisis/programacion.ipynb): Código de análisis del artículo realizado por Juan Cerezo Soler y José Calvo Tello.
+- (es/Python) [Autoría y estilo: Análisis estilométrico mediante clasificación de la Conquista de Jerusalén](https://github.com/morethanbooks/publications/blob/master/Cervantes_Conquista/analisis/programacion.ipynb): Código de análisis del artículo realizado por Juan Cerezo Soler y José Calvo Tello.
 - (en/Python) [Bughunt](https://github.com/mchesterkadwell/bughunt-analysis): text mining of English children's literature 1789-1914 for the representation of insects and other creepy crawlies, by Mary Chester-Kadwell, [on Binder](https://mybinder.org/v2/gh/mchesterkadwell/bughunt-analysis/master)
 - (en/Python) [Delta Inside Valle-Inclán: Stylometric Classification of Periods and Groups of His Novels](https://github.com/morethanbooks/publications/blob/master/Delta_Valle/analyze-deltamatrix.ipynb): uses machine learning and stylometry to analyze the periodization and groups of novels from the Spanish novelist Valle-Inclán. By José Calvo.
 - (en/Python) [CORDE](https://github.com/cligs/projects2019/blob/master/DHd_CORDE_genre/20180906%20500%20years%20CORDE.ipynb): analyzes the genres of the diachronic Spanish diachronic corpus, by José Calvo.
@@ -70,8 +70,9 @@
 - (en/Python) [Vine tweets](https://github.com/edsu/vine-tweets): describes how to download and work with the Vine-Tweets Dataset which was generated as part of an effort by the ArchiveTeam to archive videos from the Vine social media platform after they announced it was sunsetting the service, by Ed Summers.
 
 ## Scraping
-- (en/Python) [Scraping](https://github.com/o-date/scraping): buliding a Scrapy (Python) scraper, by Shawn Graham ([on Binder](https://mybinder.org/v2/gh/o-date/scraping/master)).
 - (en/Python) [Archives Unleashed DC](https://github.com/edsu/imls-cdx): working with Internet ARchive CDX files of museum websites, by Ed Summers.
+- (en/Python) [Scraping](https://github.com/o-date/scraping): buliding a Scrapy (Python) scraper, by Shawn Graham ([on Binder](https://mybinder.org/v2/gh/o-date/scraping/master)).
+- (it/Julia) [Scraping dei vincitori del Leone d'Oro alla Mostra di Venezia](https://github.com/Dataninja/j-r-p/blob/master/Julia/scraping_Leoni_d_oro_julia.ipynb): ottiene i dati da un articolo di Wikipedia e crea un grafico dei vincitori, di Marco Goldin.
 
 ## Data cleaning
 - (en/Python) [EEBO-TCP full-text document cleaning](https://github.com/ostwaldj/eebo_tcp_clean_text): code to make EEBO-TCP texts more easily analyzed in Natural Language Processing (NLP), though most of the edits can be used on any text file. By Jamel Ostwald.
