@@ -106,7 +106,8 @@
 - (en/Python) [Sonification](https://github.com/o-date/sonification) by Shawn Graham: Using the miditime package to represent time-series data in sound ([on Binder](https://mybinder.org/v2/gh/o-date/sonification/master)).
 - (en/Python) [Spatial Archaeology](https://github.com/ropitz/spatialarchaeology) course exercises by Rachel Opitz, [on Binder](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master).
 
-## Other technologies
+## Other
+- (en/Python) [GLAM Workbench](https://glam-workbench.github.io/): over 50 notebooks with tools and examples to help you work with data from galleries, libraries, archives, and museums (the GLAM sector), focusing on Australia and New Zealand, by Tim Sherratt.
 - (en/Python & R) [Notebook templates for Binder](https://github.com/o-date/notebooks): containing all you need to set up jupyter notebooks for use with Mybinder. mybinder.org creates a docker file that it then launches for you in the Jupyter Notebook exectuable environment. By clicking on a button, you get a version of the repository as it currently exists. You would then be able to create new Python or R notebooks and run the code, writing your analysis and your code together. You could also open a terminal within Jupyter and use git to push any changes you make back to this repository. By Shawn Graham, [on Binder](http://mybinder.org/v2/gh/o-date/notebooks/master).
 - (en/Python) [Processing](https://github.com/o-date/processing): example of integrating the Processing languages for sketches and visualizations into Python and Jupyter notebooks, by Shawn Graham, [on Binder](https://mybinder.org/v2/gh/o-date/processing/master).
 - (en/Python & R) [SPARQL and LOD](https://github.com/o-date/sparql-and-lod): introduces SPARQL and Linked Open Data, by Shawn Graham, [on Binder](https://mybinder.org/v2/gh/o-date/sparql-and-lod/master?filepath=sparql-intro.ipynb)
