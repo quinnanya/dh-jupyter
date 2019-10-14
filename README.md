@@ -78,6 +78,7 @@
 
 ## Scraping
 - (en/Python) [Archives Unleashed DC](https://github.com/edsu/imls-cdx): working with Internet ARchive CDX files of museum websites, by Ed Summers.
+- (en/Python) [Job Census](https://colab.research.google.com/drive/1RMxK5zT9mTMZUc9EMFWgrB7R_1cmaeY2) (Google Colab): scraping the Academic Jobs Wiki over time, by Ryan Heuser.
 - (en/Python) [Scraping](https://github.com/o-date/scraping): buliding a Scrapy (Python) scraper, by Shawn Graham ([on Binder](https://mybinder.org/v2/gh/o-date/scraping/master)).
 - (it/Julia) [Scraping dei vincitori del Leone d'Oro alla Mostra di Venezia](https://github.com/Dataninja/j-r-p/blob/master/Julia/scraping_Leoni_d_oro_julia.ipynb): ottiene i dati da un articolo di Wikipedia e crea un grafico dei vincitori, di Marco Goldin.
 
