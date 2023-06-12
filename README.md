@@ -9,7 +9,7 @@
 **Fr**: Les cahiers Jupyter sont utiles pour organiser et documenter le code, et pour incorporer du code dans des arguments scientifiques et / ou du matériel pédagogique. La liste suivante de cahiers à des fins de sciences humaines numériques a été extraite de Twitter en juin 2019, mais les PR avec les ajouts suggérés sont les bienvenus! Si vous voulez des cahiers en français, cherchez sur cette page l'abréviation "fr".
 
 ## Research & projects
-- (de/Python) [Modul Datenanalyse & -auswertung: Die Repräsentanz von weiblichen Sprecherinnen in den Theaterstücken der deutschen und französischen DramaCorpora](Modul Datenanalyse & -auswertung: Die Repräsentanz von weiblichen Sprecherinnen in den Theaterstücken der deutschen und französischen DramaCorpora). By Robert Jäschke.
+- (de/Python) [Modul Datenanalyse & -auswertung: Die Repräsentanz von weiblichen Sprecherinnen in den Theaterstücken der deutschen und französischen DramaCorpora](https://scm.cms.hu-berlin.de/ibi/notebooks/-/blob/master/notebooks/Drama_Speakers.ipynb). By Janina Pingel und Vivian Schlosser.
 - (en/Python) [Notebooks for "A Gospel of Health and Salvation: Modeling the Religious Culture of Seventh-day Adventism, 1843-1920" dissertation](http://dissertation.jeriwieringa.com/notebooks/notebooks-overview/). By Jeri Wieringa.
 - (en/Python) [AKU Classification](https://gitlab.com/ds-unisg/aku): using machine learning to classify Hieratic script. By Bernhard Bermeitinger.
 - (es/Python) [Autoría y estilo: Análisis estilométrico mediante clasificación de la Conquista de Jerusalén](https://github.com/morethanbooks/publications/blob/master/Cervantes_Conquista/analisis/programacion.ipynb): Código de análisis del artículo realizado por Juan Cerezo Soler y José Calvo Tello.
